@@ -1,0 +1,18 @@
+{
+  "olpVersion" : "0.5",
+
+  "paths" : [
+    {
+      "name" : "docker-compose-setup",
+      "title" : "Docker Compose Setup",
+      "description" : "Set up Docker Compose",
+      "privacy" : "public",
+      "pages" : [
+        {"module" : "my-outlearn-module"}
+      ]
+    }
+  ],
+  "modules" : [
+    {"olm" : "./modules/docker-compose-jenkins-slave.md"}
+  ]
+}
