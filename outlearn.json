@@ -13,6 +13,6 @@
     }
   ],
   "modules" : [
-    {"olm" : "./modules/docker-compose-jenkins-slave.md"}
+    {"olm" : "./modules/docker-compose-setup.md"}
   ]
 }
